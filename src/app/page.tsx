@@ -100,7 +100,7 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                NissanGT - R <Image src={"/heart 2.png"} alt="" width={20} height={20} />
+                NissanGT - R <Image src={"/heart2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>Sport</CardDescription>
             </CardHeader>
@@ -126,13 +126,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                All New Rush <Image src={"/heart.png"} alt="" width={20} height={20} />
+                All New Rush <Image src={"/heart2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv1.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -146,13 +146,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                CR - V <Image src={"/heart 2.png"} alt="" width={20} height={20} />
+                CR - V <Image src={"/heart1.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv (4).png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv0.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -166,13 +166,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                All New Terios <Image src={"/heart.png"} alt="" width={20} height={20} />
+                All New Terios <Image src={"/heart2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv (4).png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv1.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -186,13 +186,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                CR - V <Image src={"/heart 2.png"} alt="" width={20} height={20} />
+                CR - V <Image src={"/heart1.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv (4).png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv0.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -207,13 +207,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                MG ZX Exclusive <Image src={"/heart.png"} alt="" width={20} height={20} />
+                MG ZX Exclusive <Image src={"/heart2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv1.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -227,13 +227,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                NEW MG ZS <Image src={"/heart 2.png"} alt="" width={20} height={20} />
+                NEW MG ZS <Image src={"/heart1.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv0.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -247,13 +247,13 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                MG ZX Excite <Image src={"/heart.png"} alt="" width={20} height={20} />
+                MG ZX Excite <Image src={"/heart2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv (4).png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/suv1.png"} alt="" width={220} height={68} />
+              <Image src={"/Spesification2.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
